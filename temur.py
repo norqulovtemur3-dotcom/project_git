@@ -6,3 +6,4 @@ def calculate_area(*radius):
             print(pi % 3 == 0)
 
 calculate_area(23, 2, 3, 4, 12, 14)
+print("Hello from Teacher")
